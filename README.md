@@ -32,6 +32,7 @@ The NEAT library offers various configuration options for fine-tuning the traini
 Project Structure:
 
 flappy_bird_neat/
+
 ├── config.txt (Optional: NEAT configuration file)
 
 ├── imgs/
