@@ -33,17 +33,29 @@ Project Structure:
 
 flappy_bird_neat/
 ├── config.txt (Optional: NEAT configuration file)
+
 ├── imgs/
+
 │   ├── base.png
+
 │   ├── bg.png
+
 │   ├── bird1.png
+
 │   ├── bird2.png
+
 │   ├── bird3.png
+
 │   └── pipe.png
+
 ├── main.py (Entry point for the game)
+
 ├── neat/  (NEAT library modules)  # Installed package
+
 ├── pygame/  (Pygame library modules)  # Installed package
+
 ├── game.py (Script to run the game and train the AI)
+
 
 Further Enhancements:
 
